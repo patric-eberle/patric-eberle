@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Patric. I'm a frontend developer from Switzerland. In 2018 I fell in :heart: with Vue.js. The relationship is still very strong.
 
 <h3>Languages I "speak"</h3>
 
