@@ -19,6 +19,11 @@ My name is Patric. I'm a frontend developer from Switzerland. In 2018 I fell in 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |  <a href="https://www.apple.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="apple" width="50" height="50"/> </a> | <a href="https://www.google.com/intl/en/chrome/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="google chrome" width="50" height="50"/> </a> | <a href="https://www.mozilla.org/firefox/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="google chrome" width="50" height="50"/> </a> | <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phpstorm/phpstorm-original.svg" alt="phpstorm" width="50" height="50"/> </a> | <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/> </a> | <a href="https://slack.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="50" height="50"/> </a> |
 
+<h3>:muscle: People I often work with</h3>
+- [claudio147](https://github.com/claudio147)
+- [MB-web](https://github.com/MB-web)
+- [mob8607](https://github.com/mob8607)
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-eberle&show_icons=true&locale=en&layout=compact" alt="patric-eberle" />
 </p>
