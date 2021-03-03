@@ -25,6 +25,8 @@ My name is Patric. I'm a frontend developer from Switzerland. In 2018 I fell in 
 - [MB-web](https://github.com/MB-web)
 - [mob8607](https://github.com/mob8607)
 
+
+<h3>Beautiful stats</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-eberle&show_icons=true&locale=en&layout=compact" alt="patric-eberle" />
 </p>
