@@ -22,8 +22,10 @@ My name is Patric. I'm a frontend developer from Switzerland. In 2018 I fell in 
 <h2>:muscle: People I often work with</h2>
 
 - [claudio147](https://github.com/claudio147)
+- [janwidmer](https://github.com/janwidmer)
 - [MB-web](https://github.com/MB-web)
 - [mob8607](https://github.com/mob8607)
+- [notsure](https://github.com/notsure)
 
 
 <h2>Beautiful stats</h2>
