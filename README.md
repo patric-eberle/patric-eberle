@@ -31,10 +31,10 @@ My name is Patric. I'm a frontend developer from Switzerland. In 2018 I fell in 
 <h2>Beautiful stats</h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-eberle&show_icons=true&locale=en&layout=compact" alt="patric-eberle" />
-  by https://github.com/anuraghazra/github-readme-stats
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patric-eberle&show_icons=true&locale=en&layout=compact" alt="patric-eberle" /><br>
+  created by https://github.com/anuraghazra/github-readme-stats
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=patric-eberle&show_icons=true&locale=en" alt="patric-eberle" />
-  by https://github.com/anuraghazra/github-readme-stats
+  <img src="https://github-readme-stats.vercel.app/api?username=patric-eberle&show_icons=true&locale=en" alt="patric-eberle" /><br>
+  created by https://github.com/anuraghazra/github-readme-stats
 </p>
